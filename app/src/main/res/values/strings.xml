@@ -1,0 +1,14 @@
+<resources>
+    <string name ="hello_world"> Hello World!</string>
+    <string name="app_name">TapD_Bar</string>
+    <string name ="welcome">Welcome to Tap\'d Partner App</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="title_activity_login">Login Activity</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="title_activity_singup">SingupActivity</string>
+    <string name="prompt_email"> Enter Email</string>
+    <string name="BarName">Bar Name</string>
+    <string name="title_activity_add_account">AddAccount</string>
+</resources>
